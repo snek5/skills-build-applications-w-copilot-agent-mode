@@ -1,0 +1,4 @@
+# Required dependencies for OctoFit Tracker backend
+Django==4.1
+djangorestframework>=3.12,<4.0
+pymongo>=3.11,<4.0
